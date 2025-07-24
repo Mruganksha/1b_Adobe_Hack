@@ -1,0 +1,4 @@
+PyMuPDF
+sentence-transformers
+sumy
+torch
